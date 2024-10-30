@@ -1,4 +1,4 @@
-# Kubernetes Cluster Setup with Jenkins, ArgoCD, and Node.js Application Deployment
+# Kubernetes Cluster Setup with Jenkins, ArgoCD, and Node.js Application Deployment 
 
 ## Overview
 
